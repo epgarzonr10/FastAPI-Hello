@@ -38,7 +38,7 @@ uvicorn main:app
 ```
 ## Results
 <p align="center">
-  <img src="Img/Hellopython.PNG" alt="Hello">
+  <img src="Img/Hellopy.PNG" alt="Hello">
 </p>
 
 > [!IMPORTANT]
