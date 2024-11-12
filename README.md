@@ -49,3 +49,17 @@ uvicorn main:app
 > ```
 > 
 > Ensure that the port matches the one being used by your development environment.
+
+## Docker Hub Repository
+
+The Docker image for this FastAPI project is hosted on Docker Hub. You can find all the details about how the Docker image was built, how to pull it, and how to run it in the repository.
+
+### Link to the Repository:
+
+[epgarzonr/fastapi-service](https://hub.docker.com/repository/docker/epgarzonr/fastapihello/general)
+
+> **Note**  
+> Visit the link to find:  
+> - Instructions for building and running the image.  
+> - Details about the construction of the Dockerfile.  
+> - Pre-built image ready to use.  
